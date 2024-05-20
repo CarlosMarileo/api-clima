@@ -1,0 +1,43 @@
+
+body {
+    margin: 0;
+    padding:0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background: linear-gradient(50deg, #35574a, #6fb8bd);
+  }
+
+
+.container{
+    background-color: #223439;
+    border-radius: 20px;
+    max-width: 800px;
+    margin-top: 50px;
+  
+}
+
+#ciudad { 
+  padding: 10px 0;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: #fff;
+}
+img{
+ width: 100px;
+ height: 100px;
+ margin: 50px; 
+}
+.card{
+  display: flex;
+  flex-direction: row;
+  background-color:#6fb8bd ;
+  border-radius: 30px;
+}
+.card-body{
+} 
+.box2{
+}
